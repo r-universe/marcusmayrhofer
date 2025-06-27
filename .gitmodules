@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ShapleyOutlier"]
+	path = ShapleyOutlier
+	url = https://github.com/cran/ShapleyOutlier
+[submodule "robustmatrix"]
+	path = robustmatrix
+	url = https://github.com/cran/robustmatrix
